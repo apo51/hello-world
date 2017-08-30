@@ -1,1 +1,1 @@
-#test
+from jnpr.junos import Device
